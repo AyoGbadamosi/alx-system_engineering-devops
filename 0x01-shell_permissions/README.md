@@ -11,4 +11,8 @@
 10. Script that sets the mode of the file hello the same as olleh's mode
 11. Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 12. Script that creates a directory called my_dir with permissions 751 in the working directory
-13. Script that changes the group owner to school for the file hello 
+13. Script that changes the group owner to school for the file hello
+14. Script that changes the owner to vincent and the group owner to staff for all files and directories in the working directory.
+15. Script that changes the owner and the group owner of symbolic link (hello) to vincent and staff 
+16. Script that changes the owner of the file hello to betty only if it is owned by the user guillaume
+17. Script that will play the StarWarsIV episode in the terminal
