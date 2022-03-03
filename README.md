@@ -1,1 +1,1 @@
-Bash projects
+Bash Projects
