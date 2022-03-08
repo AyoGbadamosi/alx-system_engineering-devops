@@ -11,4 +11,8 @@
 10. Script that displays the result of BREATH to the power LOVE
 11. Script that converts a number from base 2 to base 10
 12. Script thast prints all possible combinations of two letters, except oo with the leteers being lower case and one combination per line
-13. Script that prints a number with two decimal places, followed by a new line storing the number in the environment variable NUM.
+13. Script that prints a number with two decimal places, followed by a new line storing the number in the environment variable NUM
+14. Script that converts a number from base 10 to base 16 
+15. Script that encodes and decodes text using the rot13 encryption assuming ASCII
+16. Script that prints every other line from the input, starting with the first line
+17. Script that adds two numbers stored in the environment variables WATER and STIR and prints the result
