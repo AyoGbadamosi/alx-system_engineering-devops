@@ -1,4 +1,4 @@
-#**System Engineering and DevOps**
+# **System Engineering and DevOps**
 
 This repository contains programs written for the system engineering and DevOps tasks at ALX Africa SE. In these projects, I worked with Bash and practiced writing Bash scripts. The specific list of projects contained follows:
 * [0x00. Shell, basics](https://github.com/AyoGbadamosi/alx-system_engineering-devops/tree/master/0x00-shell_basics)
